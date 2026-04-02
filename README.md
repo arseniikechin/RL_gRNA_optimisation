@@ -37,8 +37,6 @@ Notes:
 - `rpy2` requires a working local R installation.
 - GPU is optional; scripts can run on CPU (`--force-cpu` or `--device cpu`).
 
-## Data Currently Kept in `data/`
-
 ## Quick Start
 
 ### 1) Train a new policy
