@@ -1,0 +1,11 @@
+Training summary
+==================================================
+Started:  2026-03-18T11:27:35.334280
+Ended:    2026-03-18T16:20:58.243329
+Duration: 4h 53m 23s (17602.91 s)
+Timesteps: 1,007,616 (target: 1,000,000)
+Episodes: 154156
+Status:   COMPLETED
+Final mean reward: 0.205982
+Final mean score:  0.810312
+Final CRISPRspec: 0.832912 | GC: 0.5125 | Homopolymer: 0.91 | Off-targets: 208.83

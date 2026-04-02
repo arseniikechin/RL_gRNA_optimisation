@@ -1,0 +1,18 @@
+{
+  "training_start": "2026-03-18T11:27:35.334280",
+  "training_end": "2026-03-18T16:20:58.243329",
+  "total_time_seconds": 17602.91,
+  "total_time_human": "4h 53m 23s",
+  "total_timesteps": 1007616,
+  "target_timesteps": 1000000,
+  "completion_percent": 100.8,
+  "status": "COMPLETED",
+  "total_episodes": 154156,
+  "policy_updates_n_calls": 251904,
+  "final_mean_reward": 0.205982,
+  "final_mean_score": 0.810312,
+  "final_mean_crisprspec": 0.832912,
+  "final_mean_gc_content": 0.5125,
+  "final_mean_homopolymer_term": 0.91,
+  "final_mean_off_targets": 208.83
+}
